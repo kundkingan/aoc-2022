@@ -1,0 +1,11 @@
+{
+  "name": "aoc-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kundkingan/aoc-2022.git",
+  "author": "kundkingan <david.andersson+github@getaccept.com>",
+  "license": "MIT",
+  "scripts": {
+    "1": "node src/1/index.js"
+  }
+}

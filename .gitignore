@@ -1,0 +1,16 @@
+node_modules
+coverage
+pack
+newman/**/*.json
+/newman/reports
+dist
+*/**/.env
+yarn-error.log
+/packages/**/newman/reports
+/packages/**/newman/*.json
+.reports
+__pycache__
+.DS_Store
+cdk.out
+vendor
+.phplint-cache
